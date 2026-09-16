@@ -81,7 +81,7 @@ The project dynamically scales down to handle tighter viewport environments down
 
 ## ✒️ Author & Credits
 
-*   **[Jay R]** - *Frontend Implementation & Engineering* - [Your GitHub Profile](https://github.com/jayles08)
+*   **[Jay R]** - *Frontend Implementation & Engineering* - [GitHub Profile](https://github.com/jayles08)
 *   **Antixor** - *Original UI/UX Mockup Design Concept*
 
 ---
